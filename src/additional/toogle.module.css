@@ -1,0 +1,32 @@
+.checkbox {
+  opacity: 0;
+  position: absolute;
+
+  margin: 0;
+}
+.toogle{
+  width: 50px;
+  height: 50px;
+  display: flex;
+}
+
+
+
+.label {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.label svg {
+  width: 18px;
+  fill: var(--text-color);
+}
+
+
+
+.checkbox:checked + .label .ball {
+  transform: translateX(12px);
+}

@@ -1,0 +1,82 @@
+.light {
+  --background-color: #ffffff;
+  --header-color: #ffffff;
+  --blur: #ffffff;
+  --card-color: #f7f7f7;
+  --card2-color: #f0efef;
+  --border-color: #010e0f;
+  
+  
+  --heartfill:#00000000;
+  --heartstroke:#000000;
+
+
+  --button-color2: #FFD0D0;
+  --button-color: #ff4c4c;
+  --button-border: #ffb3b3;
+  --button-text: #ffffff;
+  --button-text-hover: #fdfdfd;
+  --button-hover: #F34646;
+  --tag-color: #ffc3a0;
+  
+  
+  --text-color: #000000;
+  --descript-color: #0202028e;
+  --text-button: #ffffff;
+  
+  --title: #333333;
+  
+  --white-color: #ffffff;
+  
+  --accent-color:#ff4c4c;
+
+  --shadow-color: #ff3737d0;
+  --hover-color: #ff7272;
+  
+  --shadow-card: #4d4d4d;
+  --arrow: #2a355a;
+  
+  
+  --film-rect:#ff6969;
+  --ico-color:#ffffff;
+}
+.dark {
+  --background-color: url(../images/backblue.jpg);
+  --header-color: #212f49fd;
+  --blur: #1a2538;
+  --card-color: #1d2838;
+  --card2-color: #273141;
+
+  --border-color: #0d5055;
+  --heartfill:#00000000;
+  --heartstroke:#ffffff;
+  --accent-color:#ff4c4c;
+
+
+  --button-color: #61dbf1;
+  --button-border: #61dbf1;
+  --button-text: #080808;
+  --button-text-c: #ffffff;
+  --button-text-hover: #414040;
+  --button-hover: #526fc0;
+  --tag-color: #fce300d8;
+  
+  --text-button: #97c7ff;
+  --text-color: #ffffff;
+  --descript-color: #6baebe;
+  --text-color-50: #c0c9e0;
+  
+  --white-color: #ffffff;
+  
+  --shadow-color: #90f8ff88;
+
+
+  --title: #7099a5;
+
+  --rating: #0f0f0f;
+  --arrow-hover: #ffd1d1be;
+
+  --film-rect:#eb0b0300;
+  --ico-color:#63ffff;
+
+}
