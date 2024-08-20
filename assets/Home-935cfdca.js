@@ -1,0 +1,1 @@
+import{r as s,j as e}from"./index-2246a97f.js";import{n as i,M as n,a}from"./normalized-data-33dbb1d7.js";import{f as m}from"./api-e17b92a1.js";import"./genres-names-2136eebc.js";function u(){const[t,o]=s.useState([]);return s.useEffect(()=>{m().then(r=>{o(i(r.results))})},[]),e.jsx(n,{children:e.jsx(a,{data:t})})}function v(){return e.jsx(u,{})}export{v as default};
