@@ -1,6 +1,6 @@
 import { genresNames } from "./genres-names";
 
-// Normalize the data
+
 export default function normalizedData(results) {
     return results.map(movie => {
         const genres = createGenres(genresNames, movie.genre_ids);
